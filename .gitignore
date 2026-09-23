@@ -1,0 +1,27 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Environment / credentials
+.env
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+
+# Large raw datasets
+data/raw/application_data.csv
+data/raw/previous_application.csv
